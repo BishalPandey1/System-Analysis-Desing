@@ -1,62 +1,41 @@
 1. Introduction to System Analysis and Design
-
 System Analysis and Design (SAD) is a structured approach to understanding and improving systems. It involves analyzing existing systems, identifying areas for improvement, and designing new systems or enhancements to meet specific objectives1. The process ensures that all components of a system work efficiently to achieve the desired outcomes.
+
 2. Phases of System Development
-
 The SAD process typically includes the following phases:
+
 a. Planning
-
 This initial phase involves defining the scope and objectives of the project. Key activities include:
-
     Identifying stakeholders: Understanding who will be affected by the system.
     Feasibility study: Assessing the technical, operational, and financial feasibility of the project2.
-
 b. Analysis
-
 In this phase, the focus is on understanding the current system and identifying the requirements for the new system. Key activities include:
-
     Problem identification: Determining the issues the system aims to address.
     Requirements gathering: Collecting detailed information about what the system should do2.
     Modeling: Creating models such as Data Flow Diagrams (DFDs) and Entity-Relationship (ER) diagrams to visualize the system2.
-
 c. Design
-
 The design phase involves creating a blueprint for the new system. Key activities include:
-
     Architecture design: Defining the high-level structure of the system, including hardware and software components2.
     Database design: Specifying the database schema, data storage, and access methods2.
     User interface design: Designing the user interface to ensure usability and accessibility2.
-
 d. Implementation
-
 This phase involves building the system based on the design specifications. Key activities include:
-
     Coding: Writing the actual code for the system.
     Testing: Conducting various tests to ensure the system works as intended1.
-
 e. Deployment
-
 Once the system is built and tested, it is deployed to the users. Key activities include:
-
     Installation: Setting up the system in the user environment.
     Training: Providing training to users on how to use the system1.
-
 f. Maintenance
-
 After deployment, the system enters the maintenance phase, where it is monitored and updated as needed. Key activities include:
-
     Bug fixing: Addressing any issues that arise.
     System updates: Implementing updates and enhancements to improve the system1.
-
 3. Key Concepts in System Analysis and Design
 a. System
-
 A system is an organized set of components that work together to achieve a common goal. It has properties such as organization, interaction, interdependence, and integration1.
 b. Constraints of a System
-
 A system must have structure and behavior designed to achieve predefined objectives. Interconnectivity and interdependence among components are essential1.
 c. Properties of a System
-
     Organization: Structure and order within the system.
     Interaction: How components operate with each other.
     Interdependence: How components depend on one another.
