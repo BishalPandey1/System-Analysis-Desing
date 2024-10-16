@@ -1,0 +1,54 @@
+The Waterfall Model is a traditional linear and sequential project management methodology used in software development. It's called "Waterfall" because the process flows steadily downwards
+through different phases, much like a waterfall
+
+Detailed Phases of the Waterfall Model
+
+    Requirements Analysis and Specification
+
+        This is the initial phase where all the system requirements are gathered from the client or stakeholders. This includes understanding what the system is supposed to do and all its functionalities. The output is a document called Software Requirements Specification (SRS), which includes detailed descriptions of the system’s functions, user requirements, and constraints.
+
+    System Design
+
+        High-Level Design (HLD): This involves designing the overall system architecture, defining the system components, their interactions, and how data flows through the system.
+
+        Low-Level Design (LLD): This involves detailing each component, defining modules, database schema, class diagrams, and algorithm design. The output is a detailed design document.
+
+    Implementation (Coding)
+
+        In this phase, developers start writing code based on the design documents. This phase is divided into small tasks or units, and each unit is developed and tested for functionality. The main output of this phase is the source code.
+
+    Integration and System Testing
+
+        Integration Testing: This involves integrating all the individual units and testing them as a group to identify issues in interactions between units.
+
+        System Testing: This involves testing the entire system as a whole to ensure it meets the specified requirements. Types of system testing include functional testing, performance testing, security testing, and usability testing.
+
+    Operation and Maintenance
+
+        After deployment, the system is monitored for any issues that arise in the real-world environment. Maintenance can be corrective (fixing bugs), adaptive (making changes to work in a new environment), or perfective (enhancing performance or maintainability).
+
+Advantages and Disadvantages
+
+Advantages:
+
+    Simplicity and Ease of Use: The model is easy to understand and use.
+
+    Structured Approach: Clear documentation and a well-structured process.
+
+    Phases are Clearly Defined: Each phase has specific deliverables.
+
+Disadvantages:
+
+    Inflexibility: Once a phase is completed, it is challenging to go back and make changes.
+
+    Late Testing: Testing is done late in the process, making it harder to identify issues early.
+
+    Not Suitable for Complex Projects: May not be ideal for projects where requirements are expected to change frequently.
+
+When to Use the Waterfall Model
+
+    When the project requirements are well understood and unlikely to change.
+
+    When the project is small or medium-sized with a clear timeline.
+
+    When a detailed documentation process is required.
