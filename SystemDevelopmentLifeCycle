@@ -1,0 +1,114 @@
+The Systems Development Life Cycle (SDLC) is a structured approach to developing information systems and software, ensuring high quality and consistency. Here’s an in-depth look at its phases in the context of Systems Analysis and Design (SAD):
+Phases of the SDLC
+
+    Planning:
+
+        Objective: Define the scope and purpose of the project.
+
+        Activities: Feasibility study, project planning, resource allocation.
+
+        Output: Project plan, feasibility study report.
+
+    Systems Analysis:
+
+        Objective: Gather detailed requirements and analyze user needs.
+
+        Activities: Requirements gathering, data modeling, process modeling.
+
+        Output: System requirements specification (SRS), business model.
+
+    System Design:
+
+        Objective: Design the architecture of the system.
+
+        Activities: High-level design (HLD) for the overall system structure, low-level design (LLD) for detailed component design.
+
+        Output: System design documents, interface design, database design.
+
+    Implementation (Coding):
+
+        Objective: Convert the design into actual software.
+
+        Activities: Writing code, unit testing.
+
+        Output: Source code, unit test results.
+
+    Integration and Testing:
+
+        Objective: Verify that the system works as intended.
+
+        Activities: Integration testing, system testing, user acceptance testing (UAT).
+
+        Output: Test plans, test cases, test results.
+
+    Deployment:
+
+        Objective: Install the system in a production environment.
+
+        Activities: Installation, configuration, user training.
+
+        Output: Deployed system, training materials.
+
+    Maintenance:
+
+        Objective: Ensure the system continues to function properly.
+
+        Activities: Bug fixes, system updates, enhancements.
+
+        Output: Maintenance reports, updated documentation.
+
+Detailed Breakdown
+
+Planning Phase:
+
+    This phase involves understanding the project’s objectives and determining its feasibility. It includes assessing technical, operational, and economic factors to ensure that the project is viable and worth pursuing.
+
+Systems Analysis Phase:
+
+    Detailed requirements are gathered from stakeholders. Tools like interviews, surveys, and document analysis are used to understand the system’s needs. This phase focuses on what the system should do rather than how it should do it.
+
+System Design Phase:
+
+    The design phase translates the requirements into a blueprint for building the system. It involves defining the system’s architecture, components, interfaces, and data structures. High-level design focuses on system architecture, while low-level design provides detailed specifications for each component.
+
+Implementation Phase:
+
+    During implementation, developers write code based on the design documents. This phase is where the actual software is created. Unit testing ensures that each individual component works correctly.
+
+Integration and Testing Phase:
+
+    All the individual components are integrated and tested as a complete system. Various testing methods, including functional, performance, security, and user acceptance testing, are used to ensure that the system meets the specified requirements.
+
+Deployment Phase:
+
+    The system is deployed to a production environment where it will be used by the end-users. This phase includes installing the software, configuring the system, and training users. Proper deployment ensures a smooth transition from development to operation.
+
+Maintenance Phase:
+
+    After deployment, the system enters the maintenance phase. This involves fixing any issues that arise, making updates, and enhancing the system’s functionality. Maintenance ensures that the system continues to meet user needs and operates efficiently.
+
+Advantages of SDLC
+
+    Structured Approach: Ensures a systematic process with clear stages and deliverables.
+
+    Documentation: Provides thorough documentation at each phase, aiding future maintenance and updates.
+
+    Quality Assurance: Emphasizes testing and validation to ensure the system meets requirements.
+
+    Project Management: Facilitates better project management through defined phases and milestones.
+
+Disadvantages of SDLC
+
+    Inflexibility: The rigid structure can make it difficult to accommodate changes once a phase is completed.
+
+    Time-Consuming: The sequential nature can lead to long development times, especially for large projects.
+
+    Cost: The detailed documentation and extensive testing can be costly in terms of time and resources.
+
+When to Use SDLC
+
+    Best suited for projects with well-defined requirements that are unlikely to change.
+
+    Ideal for large, complex systems where a structured approach ensures consistency and quality.
+
+    Useful when thorough documentation and validation are critical to the project’s success.
